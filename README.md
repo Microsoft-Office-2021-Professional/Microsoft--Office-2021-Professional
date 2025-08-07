@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center"> 
-  <img src="https://archive.org/download/microsoft_volume_license_office_2019_202110/office365_icon-icons.com_61639.png" alt="Office Pro Plus Banner" width="50%" />
+  <img src="https://archive.org/download/microsoft_volume_license_office_2019_202110/office365_icon-icons.com_61639.png" alt="Office Pro Plus Banner" width="20%" />
 </p>
 
 <h1 align="center">🧩 Office 2021 Pro Plus Unlock Utility</h1>
